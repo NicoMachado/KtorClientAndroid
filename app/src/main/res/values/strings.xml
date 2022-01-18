@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KtorClientAndroid</string>
+    <string name="title_activity_posts_demo">PostsDemo</string>
+</resources>
